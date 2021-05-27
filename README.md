@@ -1,18 +1,15 @@
-### Hi there 👋
-
-<!--
-**devMatheus-Gomes/devMatheus-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello Guys 👋
 
 @MemoGroup
 
-I am a student of Information Systems specialized for Web and Mobile development. Always cherishing to keep me updated in related communities, and aiming at good programming practices. My goal is to impact lives with technology, not restricting myself to a pole, and I am always looking for opportunities that challenge me to learn every day, solve problems and enable me to progress in my career.
+I am a person passionate about technology and programming was something that dazzled my eyes, being able to raise your creativity to the maximum and be able to put everything you think into practice. I work in Web and Mobile Development seeking to dominate the two poles, Frontend and Backend. Always attentive to the market and the news it brings, never restricting it to one side of the market, it is always looking to evolve and learn.
 
 Technologies 💻🔌
-✅ Node.js
-✅ Mysql
-✅ Mongo.db
+✅ React
+✅ Typescript
+✅ UX/UI
 ✅ Html
 ✅ CSS
-✅ React
+✅ Node.js
+✅ Javascript
 
--->
