@@ -8,8 +8,8 @@ Technologies 💻🔌
 ✅ React
 ✅ Typescript
 ✅ UX/UI
+✅ Javascript
 ✅ Html
 ✅ CSS
 ✅ Node.js
-✅ Javascript
 
