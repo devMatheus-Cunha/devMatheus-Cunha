@@ -4,6 +4,12 @@
 
 I am a person passionate about technology and programming was something that dazzled my eyes, being able to raise your creativity to the maximum and be able to put everything you think into practice. I work in Web and Mobile Development seeking to dominate the two poles, Frontend and Backend. Always attentive to the market and the news it brings, never restricting it to one side of the market, it is always looking to evolve and learn.
 
+## Connect with me:
+<a href="https://www.linkedin.com/in/devmatheusgr//" target="_blank">
+  <img align="center" alt="Matheus-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+  style="max-width:100%;">
+</a>
+
 
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40" style="max-width:100%;"></img>
