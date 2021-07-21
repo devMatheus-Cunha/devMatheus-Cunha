@@ -1,7 +1,7 @@
 # :bulb: Matheus Gomes
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmatheusgr/)](https://www.linkedin.com/in/devmatheusgr/) 
-<a href="devmatheusgr@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 @MemoGroup
 
