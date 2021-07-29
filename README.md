@@ -19,5 +19,5 @@ I am a person passionate about technology and programming was something that daz
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" style="max-width:100%;"></img>
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus-Gomes&theme=dark)](https://github.com/devMatheus-Gomes/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus-Gomes&theme=dark&background=#0D1117)](https://github.com/devMatheus-Gomes/github-readme-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=devMatheus-Gomes&theme=dark&hide_border=true&background=#0D1117&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
