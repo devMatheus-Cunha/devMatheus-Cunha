@@ -22,4 +22,4 @@ I am a person passionate about technology and programming was something that daz
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus-Gomes&theme=dark&hide_border=true&background=0D1117&fire=40C9B6&ring=40C9B6&currStreakLabel=FFFFFF)](https://github.com/devMatheus-Gomes/github-readme-stats&background=0D1117&fire=40C9B6&ring=40C9B6&currStreakLabel=FFFFFF)
 
 ## Stats
-<img src="http://github-readme-streak-stats.herokuapp.com?user=devMatheus-Gomes&theme=dark&hide_border=true&background=0D1117&fire=40C9B6&ring=40C9B6&currStreakLabel=40C9B6)](https://git.io/streak-stats" width="49.75%"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=devMatheus-Gomes&theme=dark&hide_border=true&background=0D1117&fire=40C9B6&ring=40C9B6&currStreakLabel=#40C9B6)](https://git.io/streak-stats" width="49.75%"/>
