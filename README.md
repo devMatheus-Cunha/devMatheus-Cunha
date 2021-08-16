@@ -18,12 +18,10 @@ I am a person passionate about technology and programming was something that daz
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" style="max-width:100%;"></img>
 
-## Languages
 <p> 
 <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus-Gomes&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-## Stats
 <p> 
- <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=devMatheus-Gomes&theme=dark&hide_border=true&background=0D1117&fire=40C9B6&ring=40C9B6&currStreakLabel=40C9B6)](https://git.io/streak-stats" width="49.75%" color="40C9B6"/>
+<img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=devMatheus-Gomes&theme=dark&hide_border=true&background=0D1117&fire=40C9B6&ring=40C9B6&currStreakLabel=40C9B6)](https://git.io/streak-stats" width="49.75%" color="40C9B6"/>
 </p>
