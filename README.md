@@ -21,6 +21,6 @@ I am a person passionate about technology and programming was something that daz
 ## Stats
 <p><img width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=devMatheus-Gomes&theme=dark&hide_border=true&fire=40C9B6&ring=40C9B6&currStreakLabel=40C9B6)](https://git.io/streak-stats"/></p>
 
-<p> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus-Gomes&layout=compact&langs_count=7&theme=dark"  align="right"/> </p>
+<p> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?user=devMatheus-Gomes&theme=dark&hide_border=true&fire=40C9B6&ring=40C9B6&currStreakLabel=40C9B6"  align="right"/> </p>
 
 
