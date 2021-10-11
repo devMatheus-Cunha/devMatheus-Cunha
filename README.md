@@ -1,4 +1,4 @@
-# :bulb: Matheus Gomes
+# :bulb: Matheus Cunha
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmatheusgr/)](https://www.linkedin.com/in/devmatheusgr/) 
 
