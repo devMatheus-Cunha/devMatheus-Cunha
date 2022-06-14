@@ -5,7 +5,7 @@
 
 @MemoGroup
 
-Hi, I'm a Web Front-end developer. My current focus and become a Complete Frontend Developer mastering the Web and Mobile world. Always aware of the market and the news it brings, never restricting himself to one side of the market, he is always looking to evolve and learn.
+Hi, I'm a Software Developer. My current focus and become a Complete Frontend Developer mastering the Web and Mobile world. Always aware of the market and the news it brings, never restricting himself to one side of the market, he is always looking to evolve and learn.
 
 ## Skills
 <p align="left">
