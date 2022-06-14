@@ -5,8 +5,7 @@
 
 @MemoGroup
 
-The power of Programming and what can be done with your skills is something that captivates me a lot, being able to raise your creativity to the maximum and being able to put everything you think into practice and a feeling that is priceless. My current focus and become a Complete Frontend Developer mastering the Web and Mobile world. Always aware of the market and the news it brings, never restricting himself to one side of the market, he is always looking to evolve and learn.
-
+Hi, I'm a Web Front-end developer. My current focus and become a Complete Frontend Developer mastering the Web and Mobile world. Always aware of the market and the news it brings, never restricting himself to one side of the market, he is always looking to evolve and learn.
 
 ## Skills
 <p align="left">
