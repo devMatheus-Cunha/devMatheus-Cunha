@@ -5,7 +5,9 @@
 
 @MemoGroup
 
-I am a person passionate about technology and programming was something that dazzled my eyes, being able to raise your creativity to the maximum and be able to put everything you think into practice. I work in Web and Mobile Development seeking to dominate the two poles, Frontend and Backend. Always attentive to the market and the news it brings, never restricting it to one side of the market, it is always looking to evolve and learn.
+The power of Programming and what can be done with your skills is something that captivates me a lot, being able to raise your creativity to the maximum and being able to put everything you think into practice and a feeling that is priceless.
+
+My current focus and become a Complete Frontend Developer mastering the Web and Mobile world. Always aware of the market and the news it brings, never restricting himself to one side of the market, he is always looking to evolve and learn.
 
 
 ## Skills
