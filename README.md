@@ -23,9 +23,3 @@ Hi, I am a Software Developer. My current focus and become a Complete Frontend D
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 </p>
-
-## Stats
-<p><img width="45%" height="160emm" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=devMatheus-Cunha&theme=dark&fire=#40C9B6&ring=40C9B6&currStreakLabel=red)](https://git.io/streak-stats"/></p>
-
-<p> <img width="45%" height="158px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMatheus-Cunha&layout=compact&langs_count=7&theme=dark" align="right"/> </p>
-
